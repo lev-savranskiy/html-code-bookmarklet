@@ -4,6 +4,7 @@
 
 Displays 
 1. tag name
+1. tag border
 2. tag dimensions
 
 ### How to use
