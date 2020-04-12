@@ -12,7 +12,7 @@ Displays
 Create browser bookmark with link content from this file 
 https://github.com/lev-savranskiy/html-code-bookmarklet/blob/master/html-code-bookmarklet.js
 
-![html-code-bookmarklet](https://raw.githubusercontent.com/lev-savranskiy/html-code-bookmarklet/master/html-code-bookmarklet-1.jpg)
+![html-code-bookmarklet](https://raw.githubusercontent.com/lev-savranskiy/html-code-bookmarklet/master/html-code-bookmarklet-3.jpg)
 
 Use this bookmark on any  website. 
 ![html-code-bookmarklet](https://raw.githubusercontent.com/lev-savranskiy/html-code-bookmarklet/master/html-code-bookmarklet-2.jpg)
